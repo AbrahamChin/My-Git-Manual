@@ -9,6 +9,7 @@ Version control is the art of managing changes to information.-[*TortoiseGit Man
 **create** remote repo -> **clone** it to your working directory -> **modify** files in your working dir -> **add** to stage, **commit** to branch -> **push** to remote repo
 
 0.2 Add branches
+
 **fork** (create branch) from GitHub. And **merge** into master branch with pull request(production line).
 
 
